@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1 className="text-4xl font-bold underline">This is big big header</h1>
-      <p className='text-3xl underline font-thin'>This is just a paragraph</p>
+      <p className=' underline font-thin'>This is just a paragraph</p>
     </div>
   );
 }
