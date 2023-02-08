@@ -3,6 +3,7 @@ import './App.css';
 import NavBar from './components/NavBar/NavBar';
 import Pricing from './components/Pricing/Pricing';
 
+
 function App() {
   return (
     <div className="App">
@@ -10,6 +11,7 @@ function App() {
       <h1 className="text-4xl font-bold underline">This is big big header</h1>
       <p className=' underline font-thin'>This is just a paragraph</p>
       <Pricing></Pricing>
+      
     </div>
   );
 }
